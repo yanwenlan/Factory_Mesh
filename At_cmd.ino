@@ -160,17 +160,17 @@ int handle_busy(const AT_Command *cmd)
 
 int handle_play(const AT_Command *cmd)
 {
-
+  // handle_play
 }
 
 int handle_vol(const AT_Command *cmd)
 {
-
+  // handle_vol
 }
 
 int handle_test(const AT_Command *cmd)
 {
-
+  // handle_test
 }
 
 AT_HandlerTable handler_table[] = {
